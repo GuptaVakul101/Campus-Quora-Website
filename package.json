@@ -1,0 +1,24 @@
+{
+  "name": "campus_quora_website",
+  "version": "1.0.0",
+  "description": "Campus Quora Website for IIT Guwahati developed in collaboration with Coding Club IITG",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuptaVakul101/Campus_Quora_Website.git"
+  },
+  "author": "Lavish Gulati, Vakul Gupta, Chirag Gupta, Utkarsh Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuptaVakul101/Campus_Quora_Website/issues"
+  },
+  "homepage": "https://github.com/GuptaVakul101/Campus_Quora_Website#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
